@@ -1,0 +1,1 @@
+Delete this line and add your contacts in single line for each contact. No need to provide the country code. 
