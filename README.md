@@ -6,7 +6,7 @@ This base version of the code repo can automate WhatsApp functions like:
 2. reading contact numbers from a text file and send them messages. 
 3. attaching media like images, pdf files etc
 
-The code is written in Python using PyWhatKit and makes use of selenium for automation
+The code is written in Python and makes use of selenium for control and automation
 
 Pre-requisites: Web WhatsApp must be open - the code will scan the QR code the first time.
 
@@ -29,3 +29,8 @@ Future features:
 # Please note: 
 1. The UI elements of WhatsApp keep changing - internally and may not be fetched properly by the selenium part of the code. 
 2. There are some cases - when the media does not get attached - but only sends the message.  
+
+# Additional Setup (if needed):
+1. Chrome Browser: Make sure you have Google Chrome installed
+Download from: https://www.google.com/chrome/
+2. Chrome Driver: The webdriver-manager will automatically download the correct ChromeDriver version, so you don't need to manually install it.
