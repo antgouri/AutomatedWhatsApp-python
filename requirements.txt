@@ -1,4 +1,4 @@
-# WhatsApp Image Sender Requirements
+# Requirements file
 # Install with: pip install -r requirements.txt
 
 selenium==4.26.1
