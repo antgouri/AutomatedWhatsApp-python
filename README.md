@@ -15,6 +15,9 @@ pip install -r requirements.txt
 
 for installing all the dependent packages.
 
+# Steps to run the code (if you have a conda environment - it would be better):
+1. python3 code_whatsapp.py
+   
 Drawbacks:
 1. It roughly takes a minute of time to send message to one person.
 
