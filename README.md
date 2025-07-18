@@ -31,7 +31,8 @@ Future features:
 
 # Please note: 
 1. The UI elements of WhatsApp keep changing - internally and may not be fetched properly by the selenium part of the code. 
-2. There are some cases - when the media does not get attached - but only sends the message.  
+2. There are some cases - when the media does not get attached - but only sends the message.
+3. You may not need this code if you have access to a Business WhatsApp account or you have some API access (not trusty..Beware) 
 
 # Additional Setup (if needed):
 1. Chrome Browser: Make sure you have Google Chrome installed
