@@ -6,7 +6,7 @@ This base version of the code repo can automate WhatsApp functions like:
 2. reading contact numbers from a text file and send them messages. 
 3. attaching media like images, pdf files etc
 
-The code is written in Python and makes use of selenium for control and automation
+The code is written in Python( 3.10 version - if you have a conda environment - it would be better ) and makes use of selenium for control and automation
 
 Pre-requisites: Web WhatsApp must be open - the code will scan the QR code the first time.
 
@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 for installing all the dependent packages.
 
-# Steps to run the code (if you have a conda environment - it would be better):
+# Steps to run the code:
 1. python3 code_whatsapp.py
    
 Drawbacks:
