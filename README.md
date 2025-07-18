@@ -1,5 +1,5 @@
 # AutomatedWhatsApp-python
-It is an automated WhatsApp with code in Python
+It is an automated WhatsApp!
 
 This base version of the code repo can automate WhatsApp functions like:
 1. sending messages
